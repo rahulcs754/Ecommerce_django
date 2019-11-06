@@ -89,7 +89,7 @@ $ python manage.py runserver
 Contact link and Query Link
 ---------------------------
 
-<a href="https://www.facebook.com/rahulcs754">FaceBook</a>
+<a href="https://www.facebook.com/rahulcs754">Facebook</a>
 <a href="https://twitter.com/Rahulcs754">Twitter</a>
 <a href="https://www.linkedin.com/in/rahulcs754/">Linkdin</a>
 
